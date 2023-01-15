@@ -1,0 +1,26 @@
+{
+  
+  "name": "devopsq4",
+  "version": "1.0.0",
+  "main": "SimpleMath.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lapanxd/devopsq4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Lapanxd/devopsq4/issues"
+  },
+  "homepage": "https://github.com/Lapanxd/devopsq4#readme",
+  "description": ""
+}
